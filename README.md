@@ -1,2 +1,2 @@
-# xiliu1991-gmail.com
-LearnComputerVision
+# Learn Computer Vision
+stage 1. learn OpenCV package
